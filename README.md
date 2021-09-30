@@ -1,6 +1,5 @@
 ## Sobre mim 👋
 
-- 🔭 I’m currently working on secret project 🧑‍🚒
 - 🌱 Estou estudando Python
 - 👯 I’m looking to collaborate on tudo
 - 🤔 I’m looking for help with aprender mais sobre programação
