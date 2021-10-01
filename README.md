@@ -1,8 +1,8 @@
 ## Sobre mim 👋
 
-- 🌱 Estou estudando Python
-- 👯 I’m looking to collaborate on tudo
-- 🤔 I’m looking for help with aprender mais sobre programação
+- 🌱 student Python
+- 👯 I can help as much as possible and try the impossible to help you
+- 🤔 it's very fun this world that I see myself dumber every day
 - 😄 Pronouns: Ela/Dela
 - ![Snake animation](https://github.com/ThaynaSantana/ThaynaSantana/blob/output/github-contribution-grid-snake.svg)
 -->
