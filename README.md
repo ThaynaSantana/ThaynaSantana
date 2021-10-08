@@ -1,6 +1,6 @@
 ## Sobre mim 👋
 
-- 🌱 student Python
+- Student Python
 - 👯 I can help as much as possible and try the impossible to help you
 - 🤔 it's very fun this world that I see myself dumber every day
 - 😄 Pronouns: Ela/Dela
