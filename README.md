@@ -1,8 +1,10 @@
 ## Sobre mim 👋 
 ### What I know :D
 #### Ruby | Python | ShellScript
+--------------------------------------------------
 ### Studying :)
 #### MySQL, C, C++, Python, Ruby
+--------------------------------------------------
 >Pronouns: Ela/Dela 😄
 >
 >I live in 🇧🇷, northeast 😎🌅
