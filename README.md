@@ -3,7 +3,7 @@
 | Ruby, Python, ShellScript, Linux, Windows | <br>
 
 <b>Studying :) </b><br>
-| (Ruby, Rails), (HTML ,CSS, JS), MySQL, Python |
+| (Ruby, Rails), (HTML ,CSS, JS), MySQL |
 
 <b>Pronouns :P</b><br>
 Português: Ela/Dela<br>
