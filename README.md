@@ -3,7 +3,8 @@
 My name is Thayna and i was born in the year 2004<br>
 My focus is mobile development,<br>
 My native language is portuguese and i know basic english<br>
-My contacts => thaynas.s503@gmail.com
+My contacts => thaynas.s503@gmail.com<br>
+
 <b>What I know :D </b><br>
 | Ruby, Python, ShellScript, Linux, Windows | <br>
 
