@@ -3,14 +3,14 @@
 My name is Thayna and i was born in the year 2004<br>
 My focus is mobile development,<br>
 My native language is portuguese and i know basic english<br>
-My contacts =><br>
+### My contacts =><br>
 email: thaynas.s503@gmail.com<br>
 telegram: [@thaykkj](https://t.me/thaykkj)<br>
 
-<b>What I know :D </b><br>
+### <b>What I know :D </b><br>
 | Ruby, Python, ShellScript, Linux, Windows | <br>
 
-<b>Studying :) </b><br>
+### <b>Studying :) </b><br>
 | (Flutter, Dart), (Ruby, Rails), (HTML ,CSS, JavaScript), MySQL |
 
 <b>Pronouns :P</b><br>
