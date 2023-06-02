@@ -7,18 +7,26 @@ My native language is portuguese and i know basic english<br>
  
 ### My contacts <br>
 email: thaynas.s502@gmail.com<br>
-telegram: [@thaykkj](https://t.me/thaykkj)<br>
+linkedin: [Thayna Santana](https://www.linkedin.com/in/thayss/)<br>
+
+### My favorite <3<br>
+JAVA <3
 
 ### <b>What I know :D </b><br>
-| (HTML ,CSS, JavaScript), Ruby, Python, ShellScript, Linux, Windows | <br>
-
-### <b>Studying :) </b><br>
-| (Flutter, Dart) |
+HTML,<br>
+CSS,<br>
+Java,<br>
+JavaScript,<br>
+Ruby,<br>
+Python,<br>
+ShellScript,<br>
+Linux,<br>
+Windows<br>
+um pouquinho de flutter e dart
 
 <b>Pronouns :P</b><br>
 Português: Ela/Dela<br>
 English: She/Her
-
 
 
 - ![Snake animation](https://github.com/ThaynaSantana/ThaynaSantana/blob/output/github-contribution-grid-snake.svg)
